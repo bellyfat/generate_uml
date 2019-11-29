@@ -9,12 +9,8 @@ from plot_uml_in_excel import WriteInExcel
 #                 "source_code_to_study/car", "source_code_to_study/vehicles"]
 source_codes = [
     "generate_ruml",
-    "dependency_collector",
     "generate_hierarchy",
     "plot_uml_in_excel",
-    "sample_class_module",
-    "test_prev_get_list_classes",
-    "test_readmodule",
 ]
 
 # list of dicts where each dict is: {"name": <>, "methods": [], "children": []}
